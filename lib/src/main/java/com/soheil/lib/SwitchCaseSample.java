@@ -22,7 +22,7 @@ public class SwitchCaseSample {
 
 
     }
-    
+
     static void print(String msg) {
         System.out.println(msg);
     }
